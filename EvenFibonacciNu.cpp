@@ -1,4 +1,5 @@
-//print fibonacci up to a certain number not all :) lets go!
+//print fibonacci up to a certain number not all
+//the array of numbers will be same as the integer that you enter 
 #include <iostream>
 using namespace std;
 
