@@ -1,4 +1,4 @@
 # project_Euler
 ````````````````````````````````````````
- I will solve Euler problemssss
+ I will solve Euler problems
 `````````````````````````````````````````
