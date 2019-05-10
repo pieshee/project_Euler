@@ -1,5 +1,5 @@
 # project_Euler
 ````````````````````````````````````````
- code for Euler problemsssss :)
+ code for Euler problemss :)
  
 `````````````````````````````````````````
